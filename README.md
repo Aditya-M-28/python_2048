@@ -11,7 +11,6 @@ Strategies in 2048 include keeping the largest tiles in a specific corner and to
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
 
 Nineteen-year-old Gabriele Cirulli created the game in a single weekend as a test to see if he could program a game from scratch.[16] "It was a way to pass the time", he said.[17] He described it as being "conceptually similar" to the recently released iOS game Threes,[3][18] and a clone of another game, 1024.[19] Developed by Veewo Studio,[20] 1024 is itself a clone of Threes, with its App Store description once reading "no need to pay for Threes".[21] Cirulli's README for 2048 cites another 1024 clone as influence: the homonymous but slightly different in terms of mechanics 2048 by Saming.[22]
 
